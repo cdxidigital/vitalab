@@ -1,0 +1,23 @@
+﻿{
+  "expo": {
+    "name": "VitaLab",
+    "slug": "vitalab-mobile-preview",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7FAF9"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash.png",
+        "backgroundColor": "#F7FAF9"
+      }
+    },
+    "web": { "favicon": "./assets/splash.png" }
+  }
+}
